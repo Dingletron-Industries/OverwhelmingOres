@@ -1,22 +1,22 @@
 {
   "display": {
     "icon": {
-      "item": "overwhelmingores:tiny_netherite_scrap"
+      "item": "overwhelmingores:netherite_scrap_piece"
     },
-    "title": "Worst Netherite!",
-    "description": "Obtain or craft a Tiny Netherite Scrap",
+    "title": "Worse Netherite!",
+    "description": "Obtain or craft a Netherite Scrap Piece!",
     "frame": "task",
     "show_toast": true,
     "annouce_to_chat": true
   },
-  "parent": "overwhelmingores:main_advancement",
+  "parent": "overwhelmingores:netherite_scrap_slice",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "overwhelmingores:tiny_netherite_scrap"
+            "item": "overwhelmingores:netherite_scrap_piece"
           }
         ]
       }
