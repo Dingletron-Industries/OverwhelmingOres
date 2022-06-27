@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures":  {
+    "all": "overwhelmingores:block/nether_gold/scanty_nether_gold_ore"
+  }
+}

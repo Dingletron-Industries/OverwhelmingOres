@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_emerald",
+    "overwhelmingores:emerald_chunk",
+    "overwhelmingores:emerald_lump",
+    "overwhelmingores:enriched_emerald",
+    "overwhelmingores:wealthy_emerald",
+    "overwhelmingores:pristine_emerald"
+  ]
+}

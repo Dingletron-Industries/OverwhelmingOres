@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:pristine_gold_ore",
+    "overwhelmingores:wealthy_gold_ore",
+    "overwhelmingores:enriched_gold_ore",
+    "overwhelmingores:poor_gold_ore",
+    "overwhelmingores:reduced_gold_ore",
+    "overwhelmingores:scanty_gold_ore"
+  ]
+}

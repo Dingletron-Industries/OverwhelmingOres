@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_gold",
+    "overwhelmingores:gold_chunk",
+    "overwhelmingores:gold_lump",
+    "overwhelmingores:enriched_gold",
+    "overwhelmingores:wealthy_gold",
+    "overwhelmingores:pristine_gold",
+    "overwhelmingores:tiny_refined_gold",
+    "overwhelmingores:refined_gold_chunk",
+    "overwhelmingores:refined_gold_lump",
+    "overwhelmingores:enriched_refined_gold",
+    "overwhelmingores:wealthy_refined_gold",
+    "overwhelmingores:pristine_refined_gold"
+  ]
+}

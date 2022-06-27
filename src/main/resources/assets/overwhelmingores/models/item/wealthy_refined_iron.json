@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "overwhelmingores:item/refined_iron/wealthy_refined_iron"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "overwhelmingores:poor_ancient_debris_ore"
+  },
+  "result": "overwhelmingores:netherite_scrap_piece",
+  "experience": 0.3,
+  "cookingtime": 200
+}

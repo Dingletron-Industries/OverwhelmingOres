@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:pristine_lapis_ore",
+    "overwhelmingores:wealthy_lapis_ore",
+    "overwhelmingores:enriched_lapis_ore",
+    "overwhelmingores:poor_lapis_ore",
+    "overwhelmingores:reduced_lapis_ore",
+    "overwhelmingores:scanty_lapis_ore"
+  ]
+}

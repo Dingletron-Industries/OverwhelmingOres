@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures":  {
+    "all": "overwhelmingores:block/nether_gold/poor_nether_gold_ore"
+  }
+}

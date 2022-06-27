@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:pristine_lapis"
+    },
+    "title": "Best Lapis!",
+    "description": "Obtain or craft a Pristine Lapis!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:wealthy_lapis",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:pristine_lapis"
+          }
+        ]
+      }
+    }
+  }
+}

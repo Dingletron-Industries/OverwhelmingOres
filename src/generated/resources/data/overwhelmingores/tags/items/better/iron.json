@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_iron",
+    "overwhelmingores:iron_chunk",
+    "overwhelmingores:iron_lump",
+    "overwhelmingores:enriched_iron",
+    "overwhelmingores:wealthy_iron",
+    "overwhelmingores:pristine_iron",
+    "overwhelmingores:tiny_refined_iron",
+    "overwhelmingores:refined_iron_chunk",
+    "overwhelmingores:refined_iron_lump",
+    "overwhelmingores:enriched_refined_iron",
+    "overwhelmingores:wealthy_refined_iron",
+    "overwhelmingores:pristine_refined_iron"
+  ]
+}

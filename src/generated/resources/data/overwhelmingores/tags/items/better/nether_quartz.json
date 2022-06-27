@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_nether_quartz",
+    "overwhelmingores:nether_quartz_chunk",
+    "overwhelmingores:nether_quartz_lump",
+    "overwhelmingores:enriched_nether_quartz",
+    "overwhelmingores:wealthy_nether_quartz",
+    "overwhelmingores:pristine_nether_quartz"
+  ]
+}

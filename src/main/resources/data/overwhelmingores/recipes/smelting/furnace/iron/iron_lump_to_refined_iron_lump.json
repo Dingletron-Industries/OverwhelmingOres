@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "overwhelmingores:iron_lump"
+  },
+  "result": "overwhelmingores:refined_iron_lump",
+  "experience": 0.3,
+  "cookingtime": 100
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_diamond",
+    "overwhelmingores:diamond_chunk",
+    "overwhelmingores:diamond_lump",
+    "overwhelmingores:enriched_diamond",
+    "overwhelmingores:wealthy_diamond",
+    "overwhelmingores:pristine_diamond"
+  ]
+}

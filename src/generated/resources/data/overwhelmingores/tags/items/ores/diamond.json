@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:pristine_diamond_ore",
+    "overwhelmingores:wealthy_diamond_ore",
+    "overwhelmingores:enriched_diamond_ore",
+    "overwhelmingores:poor_diamond_ore",
+    "overwhelmingores:reduced_diamond_ore",
+    "overwhelmingores:scanty_diamond_ore"
+  ]
+}

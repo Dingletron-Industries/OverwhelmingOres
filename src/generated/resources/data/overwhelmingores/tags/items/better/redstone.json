@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_redstone",
+    "overwhelmingores:redstone_chunk",
+    "overwhelmingores:redstone_lump",
+    "overwhelmingores:enriched_redstone",
+    "overwhelmingores:wealthy_redstone",
+    "overwhelmingores:pristine_redstone"
+  ]
+}

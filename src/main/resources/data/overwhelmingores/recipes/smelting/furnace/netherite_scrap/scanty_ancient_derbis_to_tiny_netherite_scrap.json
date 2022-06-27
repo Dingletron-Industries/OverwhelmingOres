@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "overwhelmingores:scanty_ancient_debris_ore"
+  },
+  "result": "overwhelmingores:tiny_netherite_scrap",
+  "experience": 0.3,
+  "cookingtime": 100
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures":  {
+    "all": "overwhelmingores:block/ancient_debris/wealthy_ancient_debris_ore"
+  }
+}

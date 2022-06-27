@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:diamond_lump"
+    },
+    "title": "Worse Diamond!",
+    "description": "Obtain or craft a Diamond Lump!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:diamond_chunk",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:diamond_lump"
+          }
+        ]
+      }
+    }
+  }
+}

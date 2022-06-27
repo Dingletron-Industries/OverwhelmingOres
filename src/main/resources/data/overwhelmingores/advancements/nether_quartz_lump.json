@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:nether_quartz_lump"
+    },
+    "title": "Worse Nether Quartz!",
+    "description": "Obtain or craft a Nether Quartz Lump!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:nether_quartz_chunk",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:nether_quartz_lump"
+          }
+        ]
+      }
+    }
+  }
+}

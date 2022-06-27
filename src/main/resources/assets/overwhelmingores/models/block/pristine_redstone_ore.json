@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures":  {
+    "all": "overwhelmingores:block/redstone/pristine_redstone_ore"
+  }
+}

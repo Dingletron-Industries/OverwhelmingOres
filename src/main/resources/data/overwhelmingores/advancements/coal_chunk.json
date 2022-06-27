@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:coal_chunk"
+    },
+    "title": "Worser Fuel!",
+    "description": "Obtain or craft a Coal Chunk!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:tiny_coal",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:coal_chunk"
+          }
+        ]
+      }
+    }
+  }
+}

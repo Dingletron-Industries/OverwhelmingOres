@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_ore"
+    },
+    "title": "Normal Raw Iron!",
+    "description": "Obtain a Vanilla Iron Ore!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:iron_lump",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_ore"
+          }
+        ]
+      }
+    }
+  }
+}

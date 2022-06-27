@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "overwhelmingores:item/ancient_debris/ancient_debris_lump"
+  }
+}

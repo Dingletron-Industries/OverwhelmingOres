@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "overwhelmingores:enriched_nether_quartz"
+    },
+    {
+      "tag": "overwhelmingores:tools/hammer",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 8
+  }
+}

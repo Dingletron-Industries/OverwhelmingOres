@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:coal"
+    },
+    "title": "Normal Fuel!",
+    "description": "Obtain or craft Vanilla Coal!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:coal_lump",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:coal"
+          }
+        ]
+      }
+    }
+  }
+}

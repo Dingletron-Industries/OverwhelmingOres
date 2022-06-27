@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures":  {
+    "all": "overwhelmingores:block/nether_gold/pristine_nether_gold_ore"
+  }
+}

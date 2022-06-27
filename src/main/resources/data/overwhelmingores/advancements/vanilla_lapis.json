@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "title": "Normal Lapis!",
+    "description": "Obtain a Vanilla Lapis!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:lapis_lump",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lapis_lazuli"
+          }
+        ]
+      }
+    }
+  }
+}

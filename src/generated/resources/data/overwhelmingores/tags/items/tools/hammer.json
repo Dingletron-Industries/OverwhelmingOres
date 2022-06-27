@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:stone_hammer",
+    "overwhelmingores:iron_hammer",
+    "overwhelmingores:gold_hammer",
+    "overwhelmingores:diamond_hammer",
+    "overwhelmingores:netherite_hammer"
+  ]
+}

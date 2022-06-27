@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "overwhelmingores:tiny_coal",
+    "overwhelmingores:coal_chunk",
+    "overwhelmingores:coal_lump",
+    "overwhelmingores:enriched_coal",
+    "overwhelmingores:wealthy_coal",
+    "overwhelmingores:pristine_coal"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "overwhelmingores:item/nether_quartz/tiny_nether_quartz"
+  }
+}
