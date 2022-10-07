@@ -20,8 +20,8 @@ public class EnrichedRedstoneOre extends GlowingBlock {
                 .harvestTool(ToolType.PICKAXE)
                 .setRequiresTool()
                 .harvestLevel(3)
-        , 0.5625D, new ParticleColour("ea9abe"));
-        withParticleCount(10);
+        , 0.5625D, new GlowingBlock.ParticleColour("d40000"));
+        withParticleCount(4);
     }
 
     @Override

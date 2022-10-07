@@ -20,8 +20,8 @@ public class PoorRedstoneOre extends GlowingBlock {
                 .harvestTool(ToolType.PICKAXE)
                 .setRequiresTool()
                 .harvestLevel(3)
-        , 0.5625D, new ParticleColour(255, 0, 0, 1.0f));
-        withParticleCount(10);
+        , 0.5625D, new GlowingBlock.ParticleColour("ff3030"));
+        withParticleCount(2);
     }
 
     @Override

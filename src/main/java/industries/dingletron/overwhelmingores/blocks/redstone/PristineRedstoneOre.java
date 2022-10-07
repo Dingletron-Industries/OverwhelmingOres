@@ -20,8 +20,8 @@ public class PristineRedstoneOre extends GlowingBlock {
                 .harvestTool(ToolType.PICKAXE)
                 .setRequiresTool()
                 .harvestLevel(3)
-        , 0.5625D, new GlowingBlock.ParticleColour(255, 150, 150, 1.0f));
-        withParticleCount(10);
+        , 0.5625D, new GlowingBlock.ParticleColour("730101"));
+        withParticleCount(6);
     }
 
     @Override

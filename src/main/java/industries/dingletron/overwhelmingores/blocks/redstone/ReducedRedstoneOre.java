@@ -20,8 +20,8 @@ public class ReducedRedstoneOre extends GlowingBlock {
                 .harvestTool(ToolType.PICKAXE)
                 .setRequiresTool()
                 .harvestLevel(3)
-        , 0.5625D, new GlowingBlock.ParticleColour(255, 0, 0, 1.0f));
-        withParticleCount(10);
+        , 0.5625D, new GlowingBlock.ParticleColour("ff5e5e"));
+        withParticleCount(1);
     }
 
     @Override
