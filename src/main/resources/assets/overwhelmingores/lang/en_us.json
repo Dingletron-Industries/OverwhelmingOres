@@ -1,5 +1,4 @@
 {
-
   "item.overwhelmingores.stone_hammer": "Stone Hammer",
   "item.overwhelmingores.iron_hammer": "Iron Hammer",
   "item.overwhelmingores.gold_hammer": "Gold Hammer",
@@ -13,19 +12,33 @@
   "item.overwhelmingores.coal_lump": "Coal Lump",
   "item.overwhelmingores.tiny_coal": "Tiny Coal",
 
-  "item.overwhelmingores.pristine_iron": "Pristine Iron",
-  "item.overwhelmingores.wealthy_iron": "Wealthy Iron",
-  "item.overwhelmingores.enriched_iron": "Enriched Iron",
-  "item.overwhelmingores.iron_chunk": "Iron Chunk",
-  "item.overwhelmingores.iron_lump": "Iron Lump",
-  "item.overwhelmingores.tiny_iron": "Tiny Iron",
+  "item.overwhelmingores.raw_pristine_iron": "Raw Pristine Iron",
+  "item.overwhelmingores.raw_wealthy_iron": "Raw Wealthy Iron",
+  "item.overwhelmingores.raw_enriched_iron": "Raw Enriched Iron",
+  "item.overwhelmingores.raw_iron_chunk": "Raw Iron Chunk",
+  "item.overwhelmingores.raw_iron_lump": "Raw Iron Lump",
+  "item.overwhelmingores.raw_tiny_iron": "Raw Tiny Iron",
 
-  "item.overwhelmingores.pristine_gold": "Pristine Gold",
-  "item.overwhelmingores.wealthy_gold": "Wealthy Gold",
-  "item.overwhelmingores.enriched_gold": "Enriched Gold",
-  "item.overwhelmingores.gold_chunk": "Gold Chunk",
-  "item.overwhelmingores.gold_lump": "Gold Lump",
-  "item.overwhelmingores.tiny_gold": "Tiny Gold",
+  "item.overwhelmingores.raw_pristine_gold": "Raw Pristine Gold",
+  "item.overwhelmingores.raw_wealthy_gold": "Raw Wealthy Gold",
+  "item.overwhelmingores.raw_enriched_gold": "Raw Enriched Gold",
+  "item.overwhelmingores.raw_gold_chunk": "Raw Gold Chunk",
+  "item.overwhelmingores.raw_gold_lump": "Raw Gold Lump",
+  "item.overwhelmingores.raw_tiny_gold": "Raw Tiny Gold",
+
+  "item.overwhelmingores.refined_tiny_iron": "Tiny Refined Iron",
+  "item.overwhelmingores.refined_iron_chunk": "Refined Iron Chunk",
+  "item.overwhelmingores.refined_iron_lump": "Refined Iron Lump",
+  "item.overwhelmingores.refined_enriched_iron": "Enriched Refined Iron",
+  "item.overwhelmingores.refined_wealthy_iron": "Wealthy Refined Iron",
+  "item.overwhelmingores.refined_pristine_iron": "Pristine Refined Iron",
+
+  "item.overwhelmingores.refined_tiny_gold": "Tiny Refined Gold",
+  "item.overwhelmingores.refined_gold_chunk": "Refined Gold Chunk",
+  "item.overwhelmingores.refined_gold_lump": "Refined Gold Lump",
+  "item.overwhelmingores.refined_enriched_gold": "Enriched Refined Gold",
+  "item.overwhelmingores.refined_wealthy_gold": "Wealthy Refined Gold",
+  "item.overwhelmingores.refined_pristine_gold": "Pristine Refined Gold",
 
   "item.overwhelmingores.pristine_lapis": "Pristine Lapis",
   "item.overwhelmingores.wealthy_lapis": "Wealthy Lapis",
@@ -75,21 +88,6 @@
   "item.overwhelmingores.netherite_scrap_piece": "Netherite Scrap Piece",
   "item.overwhelmingores.netherite_scrap_slice": "Netherite Scrap Slice",
   "item.overwhelmingores.tiny_netherite_scrap": "Tiny Netherite Scrap",
-
-  "item.overwhelmingores.tiny_refined_iron": "Tiny Refined Iron",
-  "item.overwhelmingores.refined_iron_chunk": "Refined Iron Chunk",
-  "item.overwhelmingores.refined_iron_lump": "Refined Iron Lump",
-  "item.overwhelmingores.enriched_refined_iron": "Enriched Refined Iron",
-  "item.overwhelmingores.wealthy_refined_iron": "Wealthy Refined Iron",
-  "item.overwhelmingores.pristine_refined_iron": "Pristine Refined Iron",
-
-  "item.overwhelmingores.tiny_refined_gold": "Tiny Refined Gold",
-  "item.overwhelmingores.refined_gold_chunk": "Refined Gold Chunk",
-  "item.overwhelmingores.refined_gold_lump": "Refined Gold Lump",
-  "item.overwhelmingores.enriched_refined_gold": "Enriched Refined Gold",
-  "item.overwhelmingores.wealthy_refined_gold": "Wealthy Refined Gold",
-  "item.overwhelmingores.pristine_refined_gold": "Pristine Refined Gold",
-
 
   "block.overwhelmingores.pristine_coal_ore": "Pristine Coal Ore",
   "block.overwhelmingores.wealthy_coal_ore": "Wealthy Coal Ore",
@@ -159,8 +157,5 @@
   "block.overwhelmingores.enriched_ancient_debris_ore": "Enriched Ancient Debris",
   "block.overwhelmingores.poor_ancient_debris_ore": "Poor Ancient Debris",
   "block.overwhelmingores.reduced_ancient_debris_ore": "Reduced Ancient Debris",
-  "block.overwhelmingores.scanty_ancient_debris_ore": "Scanty Ancient Debris",
-
-  "itemGroup.owoModTabItems": "Overwhelming Ores Items",
-  "itemGroup.owoModTabBlocks": "Overwhelming Ores Blocks"
+  "block.overwhelmingores.scanty_ancient_debris_ore": "Scanty Ancient Debris"
 }

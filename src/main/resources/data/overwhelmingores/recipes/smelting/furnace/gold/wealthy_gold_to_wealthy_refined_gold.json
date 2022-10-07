@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "overwhelmingores:wealthy_gold"
-  },
-  "result": "overwhelmingores:wealthy_refined_gold",
-  "experience": 0.3,
-  "cookingtime": 100
-}

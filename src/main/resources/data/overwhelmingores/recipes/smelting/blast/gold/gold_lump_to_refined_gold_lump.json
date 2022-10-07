@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "overwhelmingores:gold_lump"
-  },
-  "result": "overwhelmingores:refined_gold_lump",
-  "experience": 0.3,
-  "cookingtime": 200
-}

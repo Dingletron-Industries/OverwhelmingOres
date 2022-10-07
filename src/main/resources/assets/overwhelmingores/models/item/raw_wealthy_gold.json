@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "overwhelmingores:item/raw_gold/raw_wealthy_gold"
+  }
+}

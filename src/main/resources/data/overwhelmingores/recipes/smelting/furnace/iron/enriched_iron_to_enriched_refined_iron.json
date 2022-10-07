@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "overwhelmingores:enriched_iron"
-  },
-  "result": "overwhelmingores:enriched_refined_iron",
-  "experience": 0.3,
-  "cookingtime": 100
-}

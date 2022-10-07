@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "overwhelmingores:pristine_gold"
-  },
-  "result": "overwhelmingores:pristine_refined_gold",
-  "experience": 0.3,
-  "cookingtime": 100
-}

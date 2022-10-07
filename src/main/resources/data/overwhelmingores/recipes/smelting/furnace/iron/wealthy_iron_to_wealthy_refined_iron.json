@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "overwhelmingores:wealthy_iron"
-  },
-  "result": "overwhelmingores:wealthy_refined_iron",
-  "experience": 0.3,
-  "cookingtime": 100
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "overwhelmingores:gold_chunk"
-  },
-  "result": "overwhelmingores:refined_gold_chunk",
-  "experience": 0.3,
-  "cookingtime": 100
-}

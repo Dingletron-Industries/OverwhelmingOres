@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "overwhelmingores:enriched_gold"
-  },
-  "result": "overwhelmingores:enriched_refined_gold",
-  "experience": 0.3,
-  "cookingtime": 200
-}
