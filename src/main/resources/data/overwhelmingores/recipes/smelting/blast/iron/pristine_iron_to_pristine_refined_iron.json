@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "overwhelmingores:pristine_iron"
+  },
+  "result": "overwhelmingores:pristine_refined_iron",
+  "experience": 0.3,
+  "cookingtime": 200
+}

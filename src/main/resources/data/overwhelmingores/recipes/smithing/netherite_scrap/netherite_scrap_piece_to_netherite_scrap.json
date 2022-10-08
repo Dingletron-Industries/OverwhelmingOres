@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "overwhelmingores:netherite_scrap_piece"
+  },
+  "addition": {
+    "item": "overwhelmingores:netherite_scrap_piece"
+  },
+  "result": {
+    "item": "minecraft:netherite_scrap"
+  }
+}

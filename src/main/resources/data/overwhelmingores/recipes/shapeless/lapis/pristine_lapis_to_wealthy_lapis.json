@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "overwhelmingores:pristine_lapis"
+    },
+    {
+      "tag": "overwhelmingores:tools/hammer",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "overwhelmingores:wealthy_lapis",
+    "count": 8
+  }
+}

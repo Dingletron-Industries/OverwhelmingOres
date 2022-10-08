@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:redstone_lump"
+    },
+    "title": "Worse Diamond!",
+    "description": "Obtain or craft a Redstone Lump!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:redstone_chunk",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:redstone_lump"
+          }
+        ]
+      }
+    }
+  }
+}

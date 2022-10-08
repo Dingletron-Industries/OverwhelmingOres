@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:bound_netherite_scrap"
+    },
+    "title": "Better Netherite Scrap!",
+    "description": "Obtain or craft a Bound Netherite Scrap!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:stacked_netherite_scrap",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:bound_netherite_scrap"
+          }
+        ]
+      }
+    }
+  }
+}

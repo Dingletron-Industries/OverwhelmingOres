@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:lapis_lump"
+    },
+    "title": "Worse Lapis!",
+    "description": "Obtain or craft a Lapis Lump!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:lapis_chunk",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:lapis_lump"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "overwhelmingores:coal_lump"
+    },
+    "S": {
+      "tag": "overwhelmingores:tools/hammer",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

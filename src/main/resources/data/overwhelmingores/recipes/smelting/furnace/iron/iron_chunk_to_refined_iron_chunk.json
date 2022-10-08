@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "overwhelmingores:iron_chunk"
+  },
+  "result": "overwhelmingores:refined_iron_chunk",
+  "experience": 0.3,
+  "cookingtime": 100
+}

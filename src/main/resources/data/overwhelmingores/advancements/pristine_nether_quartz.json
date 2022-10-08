@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:pristine_nether_quartz"
+    },
+    "title": "Best Nether Quartz!",
+    "description": "Obtain or craft a Pristine Nether Quartz!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:wealthy_nether_quartz",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:pristine_nether_quartz"
+          }
+        ]
+      }
+    }
+  }
+}

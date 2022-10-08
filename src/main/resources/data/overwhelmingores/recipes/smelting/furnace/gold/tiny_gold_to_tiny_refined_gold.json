@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "overwhelmingores:tiny_gold"
+  },
+  "result": "overwhelmingores:tiny_refined_gold",
+  "experience": 0.3,
+  "cookingtime": 100
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:pristine_coal"
+    },
+    "title": "Best Fuel!",
+    "description": "Obtain or craft a Pristine Coal!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:wealthy_coal",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:pristine_coal"
+          }
+        ]
+      }
+    }
+  }
+}

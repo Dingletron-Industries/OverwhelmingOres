@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "overwhelmingores:enriched_diamond"
+    },
+    "S": {
+      "tag": "overwhelmingores:tools/hammer",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "overwhelmingores:wealthy_diamond"
+  }
+}

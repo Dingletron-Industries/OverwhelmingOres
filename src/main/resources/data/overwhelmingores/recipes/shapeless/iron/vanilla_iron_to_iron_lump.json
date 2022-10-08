@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "overwhelmingores:tools/hammer",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "overwhelmingores:refined_iron_lump",
+    "count": 8
+  }
+}

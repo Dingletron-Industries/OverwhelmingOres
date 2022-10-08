@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:iron_lump"
+    },
+    "title": "Worse Raw Iron!",
+    "description": "Obtain or craft an Iron Lump!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:iron_chunk",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:iron_lump"
+          }
+        ]
+      }
+    }
+  }
+}

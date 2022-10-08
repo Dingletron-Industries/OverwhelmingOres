@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:wealthy_nether_quartz"
+    },
+    "title": "Better Nether Quartz!",
+    "description": "Obtain or craft a Wealthy Nether Quartz!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:enriched_nether_quartz",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:wealthy_nether_quartz"
+          }
+        ]
+      }
+    }
+  }
+}

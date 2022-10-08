@@ -5,6 +5,7 @@
   "item.overwhelmingores.diamond_hammer": "Diamond Hammer",
   "item.overwhelmingores.netherite_hammer": "Netherite Hammer",
 
+
   "item.overwhelmingores.pristine_coal": "Pristine Coal",
   "item.overwhelmingores.wealthy_coal": "Wealthy Coal",
   "item.overwhelmingores.enriched_coal": "Enriched Coal",
@@ -19,6 +20,13 @@
   "item.overwhelmingores.raw_iron_lump": "Raw Iron Lump",
   "item.overwhelmingores.raw_tiny_iron": "Raw Tiny Iron",
 
+  "item.overwhelmingores.raw_pristine_copper": "Raw Pristine Copper",
+  "item.overwhelmingores.raw_wealthy_copper": "Raw Wealthy Copper",
+  "item.overwhelmingores.raw_enriched_copper": "Raw Enriched Copper",
+  "item.overwhelmingores.raw_copper_chunk": "Raw Copper Chunk",
+  "item.overwhelmingores.raw_copper_lump": "Raw Copper Lump",
+  "item.overwhelmingores.raw_tiny_copper": "Raw Tiny Copper",
+
   "item.overwhelmingores.raw_pristine_gold": "Raw Pristine Gold",
   "item.overwhelmingores.raw_wealthy_gold": "Raw Wealthy Gold",
   "item.overwhelmingores.raw_enriched_gold": "Raw Enriched Gold",
@@ -32,6 +40,13 @@
   "item.overwhelmingores.refined_enriched_iron": "Enriched Refined Iron",
   "item.overwhelmingores.refined_wealthy_iron": "Wealthy Refined Iron",
   "item.overwhelmingores.refined_pristine_iron": "Pristine Refined Iron",
+
+  "item.overwhelmingores.refined_tiny_copper": "Tiny Refined Copper",
+  "item.overwhelmingores.refined_copper_chunk": "Refined Copper Chunk",
+  "item.overwhelmingores.refined_copper_lump": "Refined Copper Lump",
+  "item.overwhelmingores.refined_enriched_copper": "Enriched Refined Copper",
+  "item.overwhelmingores.refined_wealthy_copper": "Wealthy Refined Copper",
+  "item.overwhelmingores.refined_pristine_copper": "Pristine Refined Copper",
 
   "item.overwhelmingores.refined_tiny_gold": "Tiny Refined Gold",
   "item.overwhelmingores.refined_gold_chunk": "Refined Gold Chunk",
@@ -89,6 +104,64 @@
   "item.overwhelmingores.netherite_scrap_slice": "Netherite Scrap Slice",
   "item.overwhelmingores.tiny_netherite_scrap": "Tiny Netherite Scrap",
 
+
+  "block.overwhelmingores.pristine_deepslate_coal_ore": "Pristine Deepslate Coal Ore",
+  "block.overwhelmingores.wealthy_deepslate_coal_ore": "Wealthy Deepslate Coal Ore",
+  "block.overwhelmingores.enriched_deepslate_coal_ore": "Enriched Deepslate Coal Ore",
+  "block.overwhelmingores.poor_deepslate_coal_ore": "Poor Deepslate Coal Ore",
+  "block.overwhelmingores.reduced_deepslate_coal_ore": "Reduced Deepslate Coal Ore",
+  "block.overwhelmingores.scanty_deepslate_coal_ore": "Scanty Deepslate Coal Ore",
+
+  "block.overwhelmingores.pristine_deepslate_iron_ore": "Pristine Deepslate Iron Ore",
+  "block.overwhelmingores.wealthy_deepslate_iron_ore": "Wealthy Deepslate Iron Ore",
+  "block.overwhelmingores.enriched_deepslate_iron_ore": "Enriched Deepslate Iron Ore",
+  "block.overwhelmingores.poor_deepslate_iron_ore": "Poor Deepslate Iron Ore",
+  "block.overwhelmingores.reduced_deepslate_iron_ore": "Reduced Deepslate Iron Ore",
+  "block.overwhelmingores.scanty_deepslate_iron_ore": "Scanty Deepslate Iron Ore",
+
+  "block.overwhelmingores.pristine_deepslate_copper_ore": "Pristine Deepslate Copper Ore",
+  "block.overwhelmingores.wealthy_deepslate_copper_ore": "Wealthy Deepslate Copper Ore",
+  "block.overwhelmingores.enriched_deepslate_copper_ore": "Enriched Deepslate Copper Ore",
+  "block.overwhelmingores.poor_deepslate_copper_ore": "Poor Deepslate Copper Ore",
+  "block.overwhelmingores.reduced_deepslate_copper_ore": "Reduced Deepslate Copper Ore",
+  "block.overwhelmingores.scanty_deepslate_copper_ore": "Scanty Deepslate Copper Ore",
+
+  "block.overwhelmingores.pristine_deepslate_gold_ore": "Pristine Deepslate Gold Ore",
+  "block.overwhelmingores.wealthy_deepslate_gold_ore": "Wealthy Deepslate Gold Ore",
+  "block.overwhelmingores.enriched_deepslate_gold_ore": "Enriched Deepslate Gold Ore",
+  "block.overwhelmingores.poor_deepslate_gold_ore": "Poor Deepslate Gold Ore",
+  "block.overwhelmingores.reduced_deepslate_gold_ore": "Reduced Deepslate Gold Ore",
+  "block.overwhelmingores.scanty_deepslate_gold_ore": "Scanty Deepslate Gold Ore",
+
+  "block.overwhelmingores.pristine_deepslate_lapis_ore": "Pristine Deepslate Lapis Ore",
+  "block.overwhelmingores.wealthy_deepslate_lapis_ore": "Wealthy Deepslate Lapis Ore",
+  "block.overwhelmingores.enriched_deepslate_lapis_ore": "Enriched Deepslate Lapis Ore",
+  "block.overwhelmingores.poor_deepslate_lapis_ore": "Poor Deepslate Lapis Ore",
+  "block.overwhelmingores.reduced_deepslate_lapis_ore": "Reduced Deepslate Lapis Ore",
+  "block.overwhelmingores.scanty_deepslate_lapis_ore": "Scanty Deepslate Lapis Ore",
+
+  "block.overwhelmingores.pristine_deepslate_redstone_ore": "Pristine Deepslate Redstone Ore",
+  "block.overwhelmingores.wealthy_deepslate_redstone_ore": "Wealthy Deepslate Redstone Ore",
+  "block.overwhelmingores.enriched_deepslate_redstone_ore": "Enriched Deepslate Redstone Ore",
+  "block.overwhelmingores.poor_deepslate_redstone_ore": "Poor Deepslate Redstone Ore",
+  "block.overwhelmingores.reduced_deepslate_redstone_ore": "Reduced Deepslate Redstone Ore",
+  "block.overwhelmingores.scanty_deepslate_redstone_ore": "Scanty Deepslate Redstone Ore",
+
+  "block.overwhelmingores.pristine_deepslate_emerald_ore": "Pristine Deepslate Emerald Ore",
+  "block.overwhelmingores.wealthy_deepslate_emerald_ore": "Wealthy Deepslate Emerald Ore",
+  "block.overwhelmingores.enriched_deepslate_emerald_ore": "Enriched Deepslate Emerald Ore",
+  "block.overwhelmingores.poor_deepslate_emerald_ore": "Poor Deepslate Emerald Ore",
+  "block.overwhelmingores.reduced_deepslate_emerald_ore": "Reduced Deepslate Emerald Ore",
+  "block.overwhelmingores.scanty_deepslate_emerald_ore": "Scanty Deepslate Emerald Ore",
+
+  "block.overwhelmingores.pristine_deepslate_diamond_ore": "Pristine Deepslate Diamond Ore",
+  "block.overwhelmingores.wealthy_deepslate_diamond_ore": "Wealthy Deepslate Diamond Ore",
+  "block.overwhelmingores.enriched_deepslate_diamond_ore": "Enriched Deepslate Diamond Ore",
+  "block.overwhelmingores.poor_deepslate_diamond_ore": "Poor Deepslate Diamond Ore",
+  "block.overwhelmingores.reduced_deepslate_diamond_ore": "Reduced Deepslate Diamond Ore",
+  "block.overwhelmingores.scanty_deepslate_diamond_ore": "Scanty Deepslate Diamond Ore",
+
+
   "block.overwhelmingores.pristine_coal_ore": "Pristine Coal Ore",
   "block.overwhelmingores.wealthy_coal_ore": "Wealthy Coal Ore",
   "block.overwhelmingores.enriched_coal_ore": "Enriched Coal Ore",
@@ -102,6 +175,13 @@
   "block.overwhelmingores.poor_iron_ore": "Poor Iron Ore",
   "block.overwhelmingores.reduced_iron_ore": "Reduced Iron Ore",
   "block.overwhelmingores.scanty_iron_ore": "Scanty Iron Ore",
+
+  "block.overwhelmingores.pristine_copper_ore": "Pristine Copper Ore",
+  "block.overwhelmingores.wealthy_copper_ore": "Wealthy Copper Ore",
+  "block.overwhelmingores.enriched_copper_ore": "Enriched Copper Ore",
+  "block.overwhelmingores.poor_copper_ore": "Poor Copper Ore",
+  "block.overwhelmingores.reduced_copper_ore": "Reduced Copper Ore",
+  "block.overwhelmingores.scanty_copper_ore": "Scanty Copper Ore",
 
   "block.overwhelmingores.pristine_gold_ore": "Pristine Gold Ore",
   "block.overwhelmingores.wealthy_gold_ore": "Wealthy Gold Ore",
@@ -138,6 +218,7 @@
   "block.overwhelmingores.reduced_diamond_ore": "Reduced Diamond Ore",
   "block.overwhelmingores.scanty_diamond_ore": "Scanty Diamond Ore",
 
+
   "block.overwhelmingores.pristine_nether_quartz_ore": "Pristine Nether Quartz Ore",
   "block.overwhelmingores.wealthy_nether_quartz_ore": "Wealthy Nether Quartz Ore",
   "block.overwhelmingores.enriched_nether_quartz_ore": "Enriched Nether Quartz Ore",
@@ -157,5 +238,8 @@
   "block.overwhelmingores.enriched_ancient_debris_ore": "Enriched Ancient Debris",
   "block.overwhelmingores.poor_ancient_debris_ore": "Poor Ancient Debris",
   "block.overwhelmingores.reduced_ancient_debris_ore": "Reduced Ancient Debris",
-  "block.overwhelmingores.scanty_ancient_debris_ore": "Scanty Ancient Debris"
+  "block.overwhelmingores.scanty_ancient_debris_ore": "Scanty Ancient Debris",
+
+  "itemGroup.owoModTabItems": "Overwhelming Ores Items",
+  "itemGroup.owoModTabBlocks": "Overwhelming Ores Blocks"
 }

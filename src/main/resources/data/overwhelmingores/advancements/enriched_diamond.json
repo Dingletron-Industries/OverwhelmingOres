@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "overwhelmingores:enriched_diamond"
+    },
+    "title": "Slightly Better Diamond!",
+    "description": "Obtain or craft an Enriched Diamond!",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "overwhelmingores:vanilla_diamond",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "overwhelmingores:enriched_diamond"
+          }
+        ]
+      }
+    }
+  }
+}
