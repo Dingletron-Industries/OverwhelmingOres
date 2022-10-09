@@ -83,33 +83,33 @@ public class ModItems {
     public static final RegistryObject<Item> REFINED_PRISTINE_GOLD = ITEMS.register("refined_pristine_gold",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
 
-    /*Raw Nether Gold Items
-    public static final RegistryObject<Item> RAW_TINY_GOLD = ITEMS.register("raw_tiny_gold",
+    //Raw Copper Items
+    public static final RegistryObject<Item> RAW_TINY_COPPER = ITEMS.register("raw_tiny_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> RAW_GOLD_CHUNK = ITEMS.register("raw_gold_chunk",
+    public static final RegistryObject<Item> RAW_COPPER_CHUNK = ITEMS.register("raw_copper_chunk",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> RAW_GOLD_LUMP = ITEMS.register("raw_gold_lump",
+    public static final RegistryObject<Item> RAW_COPPER_LUMP = ITEMS.register("raw_copper_lump",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> RAW_ENRICHED_GOLD = ITEMS.register("raw_enriched_gold",
+    public static final RegistryObject<Item> RAW_ENRICHED_COPPER = ITEMS.register("raw_enriched_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> RAW_WEALTHY_GOLD = ITEMS.register("raw_wealthy_gold",
+    public static final RegistryObject<Item> RAW_WEALTHY_COPPER = ITEMS.register("raw_wealthy_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> RAW_PRISTINE_GOLD = ITEMS.register("raw_pristine_gold",
+    public static final RegistryObject<Item> RAW_PRISTINE_COPPER = ITEMS.register("raw_pristine_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
 
-    //Refined Nether Gold Items
-    public static final RegistryObject<Item> REFINED_TINY_GOLD = ITEMS.register("refined_tiny_gold",
+    //Refined Copper Items
+    public static final RegistryObject<Item> REFINED_TINY_COPPER = ITEMS.register("refined_tiny_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> REFINED_GOLD_CHUNK = ITEMS.register("refined_gold_chunk",
+    public static final RegistryObject<Item> REFINED_COPPER_CHUNK = ITEMS.register("refined_copper_chunk",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> REFINED_GOLD_LUMP = ITEMS.register("refined_gold_lump",
+    public static final RegistryObject<Item> REFINED_COPPER_LUMP = ITEMS.register("refined_copper_lump",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> REFINED_ENRICHED_GOLD = ITEMS.register("refined_enriched_gold",
+    public static final RegistryObject<Item> REFINED_ENRICHED_COPPER = ITEMS.register("refined_enriched_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> REFINED_WEALTHY_GOLD = ITEMS.register("refined_wealthy_gold",
+    public static final RegistryObject<Item> REFINED_WEALTHY_COPPER = ITEMS.register("refined_wealthy_copper",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
-    public static final RegistryObject<Item> REFINED_PRISTINE_GOLD = ITEMS.register("refined_pristine_gold",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));*/
+    public static final RegistryObject<Item> REFINED_PRISTINE_COPPER = ITEMS.register("refined_pristine_copper",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
 
     //Lapis Items
     public static final RegistryObject<Item> TINY_LAPIS = ITEMS.register("tiny_lapis",

@@ -234,6 +234,162 @@ public class ModBlocks {
                     () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
                             .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
 
+    //Deepslate Copper Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_COPPER_ORE =
+            registerBlock("scanty_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_COPPER_ORE =
+            registerBlock("reduced_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_COPPER_ORE =
+            registerBlock("poor_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_COPPER_ORE =
+            registerBlock("enriched_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_COPPER_ORE =
+            registerBlock("wealthy_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_COPPER_ORE =
+            registerBlock("pristine_deepslate_copper_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
+    //Deepslate Gold Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_GOLD_ORE =
+            registerBlock("scanty_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_GOLD_ORE =
+            registerBlock("reduced_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_GOLD_ORE =
+            registerBlock("poor_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_GOLD_ORE =
+            registerBlock("enriched_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_GOLD_ORE =
+            registerBlock("wealthy_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_GOLD_ORE =
+            registerBlock("pristine_deepslate_gold_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
+    //Deepslate Redstone Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("scanty_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("reduced_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("poor_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("enriched_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("wealthy_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_REDSTONE_ORE =
+            registerBlock("pristine_deepslate_redstone_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
+    //Deepslate Lapis Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_LAPIS_ORE =
+            registerBlock("scanty_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_LAPIS_ORE =
+            registerBlock("reduced_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_LAPIS_ORE =
+            registerBlock("poor_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_LAPIS_ORE =
+            registerBlock("enriched_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_LAPIS_ORE =
+            registerBlock("wealthy_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_LAPIS_ORE =
+            registerBlock("pristine_deepslate_lapis_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
+    //Deepslate Emerald Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_EMERALD_ORE =
+            registerBlock("scanty_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_EMERALD_ORE =
+            registerBlock("reduced_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_EMERALD_ORE =
+            registerBlock("poor_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_EMERALD_ORE =
+            registerBlock("enriched_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_EMERALD_ORE =
+            registerBlock("wealthy_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_EMERALD_ORE =
+            registerBlock("pristine_deepslate_emerald_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
+    //Deepslate Diamond Ores
+    public static final RegistryObject<Block> SCANTY_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("scanty_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> REDUCED_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("reduced_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> POOR_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("poor_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> ENRICHED_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("enriched_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> WEALTHY_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("wealthy_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+    public static final RegistryObject<Block> PRISTINE_DEEPSLATE_DIAMOND_ORE =
+            registerBlock("pristine_deepslate_diamond_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                            .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+
     /*!Nether Ores!*/
     //Nether Quartz Ores
     public static final RegistryObject<Block> SCANTY_NETHER_QUARTZ_ORE =
@@ -287,25 +443,25 @@ public class ModBlocks {
                     () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
                             .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
 
-    /*Nether Gold Ores
+    //Nether Gold Ores
     public static final RegistryObject<Block> SCANTY_NETHER_GOLD_ORE = registerBlock("scanty_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
     public static final RegistryObject<Block> REDUCED_NETHER_GOLD_ORE = registerBlock("reduced_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
     public static final RegistryObject<Block> POOR_NETHER_GOLD_ORE = registerBlock("poor_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
     public static final RegistryObject<Block> ENRICHED_NETHER_GOLD_ORE = registerBlock("enriched_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
     public static final RegistryObject<Block> WEALTHY_NETHER_GOLD_ORE = registerBlock("wealthy_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
     public static final RegistryObject<Block> PRISTINE_NETHER_GOLD_ORE = registerBlock("pristine_nether_gold_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);*/
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f)
+                    .requiresCorrectToolForDrops()), ModCreativeModeTab.OVERWHELMINGORES_BLOCKS_TAB);
 
     private static <T extends Block> RegistryObject<T>
     registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
