@@ -1,7 +1,6 @@
 package industries.dingletron.overwhelmingores.item;
 
 import industries.dingletron.overwhelmingores.OverwhelmingOres;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -56,6 +55,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
 
     //Raw Gold Items
+    public static final RegistryObject<Item> RAW_PUNY_GOLD = ITEMS.register("raw_puny_gold",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
     public static final RegistryObject<Item> RAW_TINY_GOLD = ITEMS.register("raw_tiny_gold",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
     public static final RegistryObject<Item> RAW_GOLD_CHUNK = ITEMS.register("raw_gold_chunk",
@@ -70,6 +71,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
 
     //Refined Gold Items
+    public static final RegistryObject<Item> REFINED_PUNY_GOLD = ITEMS.register("refined_puny_gold",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
     public static final RegistryObject<Item> REFINED_TINY_GOLD = ITEMS.register("refined_tiny_gold",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OVERWHELMINGORES_ITEMS_TAB)));
     public static final RegistryObject<Item> REFINED_GOLD_CHUNK = ITEMS.register("refined_gold_chunk",
